@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerCameraPoint
+  - Enemy
+  - Ground
+  - Path
+  - PlayerAttack
+  - ArmadilloUI
+  - Fade
+  - InsectWave
+  - CameraHandler
+  - CustomCamera
+  - InsectWave_Insect
+  - EnemyRespawner
+  - GameCore
+  - GameEvents
+  - FallbackButton
+  - CollectableUI
+  - Collectables
+  - Limits
+  - LifeUI
+  - PlayerTrigger
+  - Tracker
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Level
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
